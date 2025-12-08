@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Nikhil Tamada
+## Hello there 👋 I'm Nikhil
 
 **BCA 1st Year Student | Beginner Full-Stack Developer in the Making**  
 Currently learning how to turn simple ideas into real, working web projects.
