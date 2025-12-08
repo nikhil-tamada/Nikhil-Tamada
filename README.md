@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋 I'm Nikhil Tamada
 
-<!--
-**nikhil-tamada/Nikhil-Tamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BCA 1st Year Student | Beginner Full-Stack Developer in the Making**  
+Currently learning how to turn simple ideas into real, working web projects.
 
-Here are some ideas to get you started:
+- 🛠️ Right now I’m working with: `.html` `.css` `.js`
+- ⚛️ Learning step-by-step: `React`, `Node.js`, `MongoDB`
+- 🐧 Using: `Linux (WSL)` + `VS Code` for development
+- 🔧 Practicing daily: `Git` & `GitHub`
+- 🤖 Exploring: `AI tools & APIs` (beginner level)
+- 🎯 Short-term goal: **First Internship + Real Projects**
+- 🚀 Long-term goal: **Secure Software Developer Job**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 India  
+🔗 Portfolio: *Under construction – coming soon*
