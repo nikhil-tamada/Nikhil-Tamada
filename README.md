@@ -12,4 +12,4 @@ Currently learning how to turn simple ideas into real, working web projects.
 - 🚀 Long-term goal: **Secure Software Developer Job**
 
 📍 India  
-🔗 Portfolio: *Under construction – coming soon*
+🔗 Portfolio:  https://nikhil-tamada.github.io/portfolio-website/
